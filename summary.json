@@ -1,0 +1,54 @@
+{
+"firstName": "Veronika",
+"lastName": "Gromovich",
+"position": "Junior QA Engineer",
+"phoneNumber":"+3752920968",
+"location": "Pinsk",
+"hardskills":[
+"programming languages",
+"database analytics",
+"making bug report",
+"making checklist",
+"making test cases"],
+"softskills":[
+"creativity",
+"honesty",
+"critical thinking",
+"punctuality",
+"sociability",
+"positive thinking"],
+"contacts": "weronya38@gmail.com",
+"languages": "...",
+"workExperience":[
+{
+"company":"state company pinsk meat processing plant",
+"position":"packer",
+"years":"2010-2013",
+"responsibilities":[
+"food packaging",
+"packaging line service"]
+},
+{
+"company":"state company pinsk center for standardization of metrology and certification",
+"position":"Lead Engineer",
+"years":"2013-2024",
+"responsibilities":[
+"testing food products",
+"issuance of a certificate of conformity",
+"validation of methods",
+"chromatographic tests",
+"work with regulatory documentation", 
+"equipment purchase"]
+}],
+"education":[ 
+"Pinsk state Agricultural Technological College",
+"Belarusian State Technological University"],
+"links": "...",
+"certificates": "Software Testing Engineer.Basic level",
+"interests":[
+"acrobatics",
+"water skiing",
+"snowboarding", 
+"windsurf", 
+"travelling"]
+}
